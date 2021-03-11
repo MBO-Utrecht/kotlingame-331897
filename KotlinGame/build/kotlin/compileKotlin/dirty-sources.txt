@@ -1,0 +1,3 @@
+C:\kotlingame-331897\KotlinGame\src\main\kotlin\Weapon.kt
+C:\kotlingame-331897\KotlinGame\src\main\kotlin\main.kt
+C:\kotlingame-331897\KotlinGame\src\main\kotlin\Player.kt
